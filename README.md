@@ -9,4 +9,4 @@ He trabajado con bases de datos PostgreSQL y SQL Server, así como con herramien
 
 ### Contacto:
 
-![Website](https://www.linkedin.com/in/cesar-david-salas-valencia-0644a6199/)
+https://www.linkedin.com/in/cesar-david-salas-valencia-0644a6199/
